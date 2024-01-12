@@ -1,0 +1,56 @@
+---
+created: 05:08 | 5-1-2024
+updated: 22:44 | 7-1-2024
+---
+- ---
+- created: 04:40 | 5-1-2024
+- updated: 05:05 | 5-1-2024
+- ---
+- Từ vựng tiếng Anh về chủ đề học tập 
+
+- **Study** (v) - /ˈstʌdi/: Học, nghiên cứu
+- **Learn** (v) - /lɜːrn/: Học, tìm hiểu
+- **Education** (n) - /ˌɛdʒʊˈkeɪʃən/: Giáo dục
+- **Knowledge** (n) - /ˈnɒlɪdʒ/: Kiến thức
+- **Classroom** (n) - /ˈklæsruːm/: Phòng học
+- **Teacher** (n) - /ˈtiːtʃər/ or /ˈtiːʧər/: Giáo viên
+- **Student** (n) - /ˈstjuːdənt/: Sinh viên, học sinh
+- **Exam** (n) - /ɪɡˈzæm/ or /ɪkˈsæm/: Kỳ thi
+- **Homework** (n) - /ˈhoʊmwɜːrk/: Bài tập về nhà
+- **Assignment** (n) - /əˈsaɪnmənt/: Bài tập
+- **Quiz** (n) - /kwɪz/: Bài kiểm tra ngắn
+- **Read** (v) - /riːd/: Đọc
+- **Write** (v) - /raɪt/: Viết
+- **Research** (n) - /rɪˈsɜːrtʃ/ or (v) - /rɪˈsɜːrtʃ/: Nghiên cứu
+- **Library** (n) - /ˈlaɪbrəri/: Thư viện
+- **Note** (n) - /noʊt/ or (v) - /noʊt/: Ghi chú
+- **Understand** (v) - /ˌʌndərˈstænd/: Hiểu
+- **Group** (n) - /ɡruːp/ or (v) - /ɡruːp/: Nhóm
+- **Classmate** (n) - /ˈklæsˌmeɪt/: Bạn học
+
+- **Majors and Minors** (n) - /ˈmeɪdʒərz/ and /ˈmaɪnərz/: Chuyên ngành chính và phụ
+- **Academic** (adj) - /ˌækəˈdɛmɪk/: Thuộc về học thuật
+- **Assignment** (n) - /əˈsaɪnmənt/: Bài tập
+- **Attendance** (n) - /əˈtɛndəns/: Sự tham dự
+- **Certificate** (n) - /sərˈtɪfɪkət/: Chứng chỉ
+- **Classroom** (n) - /ˈklæsruːm/: Phòng học
+- **Curriculum** (n) - /kəˈrɪkjʊləm/: Chương trình giảng dạy
+- **Degree** (n) - /dɪˈɡriː/: Bằng cấp
+- **Dissertation** (n) - /ˌdɪsərˈteɪʃən/: Luận văn
+- **Education** (n) - /ˌɛdʒʊˈkeɪʃən/: Giáo dục
+- **Enrollment** (n) - /ɪnˈroʊlmənt/: Sự đăng ký
+- **Examination** (n) - /ɪɡˌzæmɪˈneɪʃən/: Kỳ thi
+- **Graduate** (v/n) - /ˈɡrædʒuˌeɪt/: Tốt nghiệp
+- **Homework** (n) - /ˈhoʊmwɜːrk/: Bài tập về nhà
+- **Lecture** (n) - /ˈlɛkʧər/: Bài giảng
+- **Major** (n) - /ˈmeɪdʒər/: Chuyên ngành
+- **Minor** (n) - /ˈmaɪnər/: Chuyên ngành phụ
+- **Professor** (n) - /prəˈfɛsər/: Giáo sư
+- **Research** (n/v) - /rɪˈsɜːrtʃ/: Nghiên cứu
+- **Scholarship** (n) - /ˈskɒlərʃɪp/: Học bổng
+- **Semester** (n) - /sɪˈmɛstər/: Học kỳ
+- **Student** (n) - /ˈstjuːdənt/: Sinh viên
+- **Study** (v/n) - /ˈstʌdi/: Học tập
+- **Syllabus** (n) - /ˈsɪləbəs/: Chương trình học
+- **Textbook** (n) - /ˈtɛkstbʊk/: Sách giáo khoa
+- **Thesis** (n) - /ˈθiːsɪs/: Luận án
